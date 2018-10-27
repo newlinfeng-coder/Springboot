@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringbootProject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="online.newlinfeng.SpringProject.war">
+      <element id="artifact" artifact-name="SpringbootProject:war exploded" />
+    </root>
+  </artifact>
+</component>
